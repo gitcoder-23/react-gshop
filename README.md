@@ -8,4 +8,4 @@ In the project directory, you can run:
 
 ## GoShop includes redux, context Api, payment gateway operation 
 
-netlify link: https://github.com/gitcoder-23/react-gshop
+netlify link: https://go-shop.netlify.app/
