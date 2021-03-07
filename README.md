@@ -2,7 +2,8 @@ GoShop is a simple ecommerce project with simple functionalities
 
 ## Available Scripts
 
-In the project directory, you can run:
+Stripe patment gateway added for react
+to test payment use this link: https://stripe.com/docs/testing#cards
 
 ### `npm start`
 
